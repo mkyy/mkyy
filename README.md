@@ -2,7 +2,7 @@
 <h3 align="center">A front-end Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mkyy&label=Profile%20views&color=0e75b6&style=flat" alt="mkyy" /> </p>
-
+- Challenging myself to code everyday in 2022!
 - 📫 How to reach me **maikyrg9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
