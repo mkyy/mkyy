@@ -3,7 +3,7 @@
 
 
 <p>- Challenging myself to code everyday in 2022! </p>
-<p>-The most used tools by Devs in only one place? Access my personal website: <a rel="noreferrer" href="https://mkyyspace.vercel.app" target="blank">mkyy Space</a> !</p>
+<p>-Access my personal website: <a rel="noreferrer" href="https://mkyyspace.vercel.app" target="blank">mkyy Space</a> !</p>
 <div align='center'>
   
 
