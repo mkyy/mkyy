@@ -27,7 +27,7 @@ const maiky = {
     technical: {
         technologies: {
             frontEnd: {
-                Javascript: ['Vanilla JS', 'React', 'Typescript'],
+                Javascript: ['Vanilla JS', 'React', 'Next.js', 'Typescript'],
                 HTML: ['HTML5', 'Semantic HTML', 'DOM'],
                 CSS: ['sass', 'styled-components', 'Bootstrap', 'Material-UI'],
             },
