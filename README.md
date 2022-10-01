@@ -34,7 +34,7 @@ const maiky = {
             backEnd: {
                 Javascript: ['Node.js']
             },
-            architecture: ['Single Page Applications','Server Side Rendering', 'Static Site Generation', 'Singleton', 'Mobile First', 'REST'],
+            architecture: ['Single Page Applications','Server Side Rendering', 'Static Site Generation', 'Singleton', 'Mobile First', 'REST', 'OOP'],
         },
     }
 }
