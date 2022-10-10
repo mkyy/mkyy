@@ -17,7 +17,7 @@ const maiky = {
         fullName: 'Maiky Roger',
         birthDate: '2000-01-01',
         pronouns: 'he' | 'him',
-        interests: ['music', 'games', 'language learning', 'movies'],
+        interests: ['music', 'language learning', 'movies', 'linux'],
         motivation: [
             'Build cool stuff for web',
             'Help improving diversity and inclusion',
@@ -32,7 +32,7 @@ const maiky = {
                 CSS: ['sass', 'styled-components', 'Bootstrap', 'Material-UI'],
             },
             backEnd: {
-                Javascript: ['Node.js']
+                Javascript: ['Node.js', 'Express', 'PostgreSQL']
             },
             architecture: ['Single Page Applications','Server Side Rendering', 'Static Site Generation', 'Singleton', 'Mobile First', 'REST', 'OOP'],
         },
