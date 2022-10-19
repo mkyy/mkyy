@@ -32,9 +32,10 @@ const maiky = {
                 CSS: ['sass', 'styled-components', 'Bootstrap', 'Material-UI'],
             },
             backEnd: {
-                Javascript: ['Node.js', 'Express', 'PostgreSQL']
+                Typescript: ['Node.js', 'Express', 'Websockets'],
+                Server: ['PostgreSQL', 'NGINX', 'apache2']
             },
-            architecture: ['Single Page Applications','Server Side Rendering', 'Static Site Generation', 'Singleton', 'Mobile First', 'REST', 'OOP'],
+            architecture: ['SPA','SSR', 'SSG', 'Singleton', 'Mobile First', 'REST', 'OOP'],
         },
     }
 }
