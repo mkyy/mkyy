@@ -1,5 +1,5 @@
 <h1 align="left">hello world 👋</h1>
-<h3 align="left">I'm Maiky, a Front-End Software Developer</h3>
+<h3 align="left">I'm Maiky, a Software Developer</h3>
 
 
 <p>- Challenging myself to code everyday in 2022! </p>
