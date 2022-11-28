@@ -27,13 +27,16 @@ const maiky = {
     technical: {
         technologies: {
             frontEnd: {
-                Javascript: ['Vanilla JS', 'React', 'Next.js', 'Typescript'],
+                Javascript: ['Vanilla JS', 'ReactJs', 'NextJs', 'Typescript'],
                 HTML: ['HTML5', 'Semantic HTML', 'DOM'],
                 CSS: ['sass', 'styled-components', 'Bootstrap', 'Material-UI'],
             },
             backEnd: {
-                Typescript: ['Node.js', 'Express', 'Websockets'],
-                Server: ['PostgreSQL', 'NGINX', 'apache2']
+                Typescript: ['Node.js', 'Express', 'NestJs','Socket.io'],
+                Server: ['PostgreSQL', 'NGINX', 'apache2', 'AWS']
+            },
+            mobile: {
+                Typescript: ['React Native']
             },
             architecture: ['SPA','SSR', 'SSG', 'Singleton', 'Mobile First', 'REST', 'OOP'],
         },
